@@ -7,7 +7,7 @@
 !mglist - 用於顯示全部表情包
 
 
-表情包來源：
+- 表情包來源：
 https://mygoapi.miyago9267.com
 感謝他的偉大付出
 
