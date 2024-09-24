@@ -14,6 +14,8 @@ https://mygoapi.miyago9267.com
 
 - 如何使用discord bot?
 https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
+- 安裝需求庫
+`pip install -r requirements.txt`
 - 免費discord bot託管
 https://freeserver.tw/
 - 如果你不想自己架 這裡可以邀請機器人
