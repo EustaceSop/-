@@ -7,3 +7,5 @@ https://mygoapi.miyago9267.com
 https://www.ionos.com/digitalguide/server/know-how/creating-discord-bot/
 - 免費discord bot託管
 https://freeserver.tw/
+
+感謝海克斯索菲亞的class
