@@ -23,3 +23,5 @@ https://discord.com/oauth2/authorize?client_id=1288112334547714048&permissions=8
 
 
 感謝海克斯索菲亞的class
+bot made by GayBottle
+Powered by Elys1an
